@@ -26,8 +26,8 @@ export const site = {
     phoneHref: "tel:+244900000000", // TODO
     whatsapp: "244900000000", // TODO — apenas dígitos, com indicativo do país
     email: "geral@onossocantinho.ao", // TODO
-    addressLine: "Rua Exemplo, 000, Bairro", // TODO
-    addressCity: "Luanda", // TODO
+    addressLine: "Cabassango", // TODO
+    addressCity: "Cabinda", // TODO
     // TODO: coordenadas reais do estabelecimento
     latitude: -8.8383,
     longitude: 13.2344,
@@ -58,8 +58,8 @@ export const site = {
 
   // TODO: substituir por perfis oficiais (RF-015 — links configuráveis)
   social: {
-    instagram: "https://instagram.com/", // TODO
-    facebook: "https://facebook.com/", // TODO
+    instagram: "https://www.instagram.com/o_nosso_cantinho.cabinda/", // TODO
+    facebook: "https://facebook.com/o_nosso_cantinho.cabinda/", // TODO
     tiktok: "", // TODO (opcional)
   },
 
